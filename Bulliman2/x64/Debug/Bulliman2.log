@@ -1,0 +1,7 @@
+﻿  header.cpp
+C:\Users\gefen\source\repos\Bulliman2\Bulliman2\header.cpp(177,6): warning C4101: 'nBulliY': unreferenced local variable
+C:\Users\gefen\source\repos\Bulliman2\Bulliman2\header.cpp(176,6): warning C4101: 'nBulliX': unreferenced local variable
+  main.cpp
+C:\Users\gefen\source\repos\Bulliman2\Bulliman2\main.cpp(24,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  Bulliman2.vcxproj -> C:\Users\gefen\source\repos\Bulliman2\x64\Debug\Bulliman2.exe
